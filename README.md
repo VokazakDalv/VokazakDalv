@@ -4,8 +4,9 @@
 
 [![codewars](https://www.codewars.com/users/VokazakDalv/badges/small)](https://www.codewars.com/users/VokazakDalv) 
 <h3 align="center">𝕄𝕪 𝕊𝕥𝕒𝕔𝕜</h3>
-![JavaScript](https://img.shields.io/badge/JavaScript-3D2C8D?style=flat-square&logo=javascript&logoColor=) 
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-6E85B2?style=flat-square&logo=typescript&logoColor=)
+![JavaScript](https://img.shields.io/badge/JavaScript-3D2C8D?style=flat-square&logo=javascript&logoColor=)
 ![HTML](https://img.shields.io/badge/HTML-D83A56?style=flat-square-endpoint&logo=html5&labelColor=F3F3F3) 
 ![CSS](https://img.shields.io/badge/CSS-6E85B2?style=flat-square-endpoint&logo=css3) 
 ![Git](https://img.shields.io/badge/Git-6E85B2?style=flat-square-endpoint&logo=git&logoColor=) 
