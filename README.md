@@ -22,7 +22,7 @@
 [![Shelter](https://img.shields.io/badge/Shelter-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/vokazakdalv-JSFE2022Q1/shelter/)
 <h2>HTML/CSS/JavaScript/TypeScript projects</h2>
 
-[![Online-Store](https://img.shields.io/badge/Online-Store-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/vokazakdalv-JSFE2022Q1/online-store_/)
+[![Online-Store](https://img.shields.io/badge/OnlineStore-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/vokazakdalv-JSFE2022Q1/online-store_/)
 
 
 <!--
