@@ -20,6 +20,8 @@
 <h2>HTML/CSS/JavaScript projects</h2>
 
 [![Shelter](https://img.shields.io/badge/Shelter-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/vokazakdalv-JSFE2022Q1/shelter/)
+
+[![Shelter](https://img.shields.io/badge/VirtualKeyboard-3F3351?style=flat-square-endpoint&logo=netlify&logoColor=3F3351&labelColor=F3F3F3)](https://vokazakdalv-virtual-keyboard.netlify.app/)
 <h2>HTML/CSS/JavaScript/TypeScript projects</h2>
 
 [![Online-Store](https://img.shields.io/badge/OnlineStore-3F3351?style=flat-square-endpoint&logo=github&logoColor=3F3351&labelColor=F3F3F3)](https://rolling-scopes-school.github.io/vokazakdalv-JSFE2022Q1/online-store_/)
